@@ -49,6 +49,6 @@ Boundaries
 - ✅ **Always:** Write to `src/` and `tests/`, run tests before commits, follow naming conventions
 - ⚠️ **Ask first:** Database schema changes, adding dependencies, modifying CI/CD config
 - 🚫 **Never:** Commit secrets or API keys, edit `node_modules/` or `vendor/`
-
+```
 
 Ref: https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/
